@@ -2,7 +2,7 @@
 
 ![Build status](https://github.com/Ben4-front/Organization-of-testing/actions/workflows/web.yml/badge.svg)
 
-https://ben4-front.github.io/EOrganization-of-testing/
+https://ben4-front.github.io/Organization-of-testing/
 
 Правила сдачи задания:
 
