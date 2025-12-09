@@ -1,4 +1,3 @@
-import './licenses/licenses.txt';
 import './css/style.css';
 import App from './js/App';
 
