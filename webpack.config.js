@@ -5,7 +5,7 @@ module.exports = {
   // Убираем Warning, задавая режим явно
   mode: 'production', 
   
-  entry: './src/js/App.js',
+  entry: './src/js/index.js',
   
   output: {
     path: path.resolve(__dirname, 'dist'),
