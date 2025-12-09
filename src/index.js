@@ -5,3 +5,4 @@ import App from './js/App';
 document.addEventListener('DOMContentLoaded', () => {
   new App().init();
 });
+// fix git
