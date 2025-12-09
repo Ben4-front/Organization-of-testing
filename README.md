@@ -1,6 +1,8 @@
 # Домашнее задание к занятию "4. Организация тестирования"
 
-[![Build status](https://ci.appveyor.com/api/projects/status/fd7x6e6xk5ct4ate?svg=true)](https://ci.appveyor.com/project/Professor-Severus-Snape/ahj-card-validator)
+![Build status](https://github.com/Ben4-front/Organization-of-testing/actions/workflows/web.yml/badge.svg)
+
+https://ben4-front.github.io/EOrganization-of-testing/
 
 Правила сдачи задания:
 
